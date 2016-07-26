@@ -1,24 +1,11 @@
-# README
+# Bookcase API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This API follows the tutorial from Semaphoreci - https://semaphoreci.com/community/tutorials/test-driving-ember-js-models, on how to create an Ember.js app with a Rails backend using Test/Behavior Driven Development.
 
-Things you may want to cover:
+The versions used here:
+* Rails 5.1.0.alpha
+* Ruby 2.2.3p173
+* RSPEC
+* The active_model_serializers gem
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can see the end result at: <add link to final app>
