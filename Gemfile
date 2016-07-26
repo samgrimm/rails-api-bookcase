@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', github: "rails/rails"
 
+ruby '2.2.3'
+
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
